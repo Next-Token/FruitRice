@@ -1,0 +1,2 @@
+# FruitRice
+arch dotfiles
